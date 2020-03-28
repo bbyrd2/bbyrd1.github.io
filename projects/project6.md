@@ -5,4 +5,4 @@ Using rtweet, I created a map that compares the tweets in the United States that
 
 ### Comparison of Covid-19 and Unemployment Tweets in the U.S. 
 
-[<img src="../images/covid.png?raw=true"/>(/covid)
+[<img src="../images/us.png?raw=true"/>(/covid)
