@@ -28,7 +28,7 @@
 ---
 
 [Tweet Comparison between Covid-19 and Unemployment](projects/project6)
-[<img src="../images/us.png?raw=true"/>](project/project6)
+[<img src="../images/us.png?raw=true"/>](projects/project6)
 
 ---
 
