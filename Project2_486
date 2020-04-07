@@ -1,0 +1,27 @@
+## Breanna Byrd
+
+### Project 2
+
+Description: Write a brief description of the aim of your project.
+Journey paths selectable in leaflet web map
+Zoom in to a pic??
+
+___
+Data: Where will the data come from? What does the data look like (which columns will you use? When was the data released?) What project is the data in?
+GitHub
+I can create tracks of how Frodo/Sam, Merry/Pippin, Gimli/Legolas, & Aragorn traveled through the movies.
+http://lotrproject.com/map/#zoom=4&lat=-1059&lon=1376&layers=BTTTTTTTT detailed data from the LOTR Project
+
+___
+Analysis: How are you going to modify / transform this data? IE, what tools are you going to use to modify and work on this data? What tool did you use?
+QGIS, R
+Determine travel distance
+Travel time vs land cover
+
+___
+Outputs: Instead of a single map or single leaflet output, please describe how this project will combine multiple perspectives of the data. You'll need to have a page for it on your GitHub, but this page so be clear on what each of the outputs are. You might have multiple leaflet maps or multiple map images, but they all must be polished.
+Journey paths selectable webmap
+You mentioned zoomable map, what were you thinking
+Zoom in and see major event in city/stop (picture probably)
+Try again to use R to create DEM from contour lines
+___
